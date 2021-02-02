@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <footer className="footer mt-auto py-3" id="footer">
         <div className="container">
-          <span className="text-muted">© Copyright 2020 Dennis Francis.</span>
+          <span className="text-muted">© Copyright 2021 Dennis Francis.</span>
         </div>
       </footer>
     );
