@@ -1,11 +1,11 @@
 import React from 'react';
-import "./Contact.css"
+import "../../styles/style.css"
 
 const Contact = () => {
     return (
         <>
                 {/* <!-- This container contains the majority of the content on the page. Header and form. --> */}
-    <main className="container" id="container">
+    <main className="container cont">
       {/* <!-- This is the main header for the article. (Contact) --> */}
       <header className="row">
         <section className="col">

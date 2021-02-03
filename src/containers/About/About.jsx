@@ -1,10 +1,10 @@
 import React from 'react';
-import "./About.css"
+import "../../styles/style.css"
 
 const About = () => {
     return (
         <>
-        <main className="container" id="container">
+        <main className="container cont">
         {/* <!-- This is the main header for the article. (About Me) --> */}
         <header className="row">
           <section className="col">

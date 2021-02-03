@@ -4,6 +4,7 @@ import About from "../../containers/About/About";
 import Contact from "../../containers/Contact/Contact";
 import Portfolio from "../../containers/Portfolio/Portfolio";
 import Footer from "../Footer/Footer";
+import "../../styles/style.css"
 
 class PortfolioContainer extends Component {
   state = {
@@ -28,7 +29,7 @@ class PortfolioContainer extends Component {
 
   render() {
     return (
-      <>
+      <div id="body">
             <Navbar
               currentPage={this.state.currentPage}
               handlePageChange={this.handlePageChange}
@@ -36,7 +37,7 @@ class PortfolioContainer extends Component {
             {this.renderPage()}
             <Footer />
          
-      </>
+      </div>
     );
   }
 }
