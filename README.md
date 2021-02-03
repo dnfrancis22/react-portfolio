@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# responsive-portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Description**
 
-## Available Scripts
+This is a site that I created to display information about my self. There are four pages. Home, About Me, Portfolio, and Contact page. The About Me page is where I have a short biography about my self. I also share links to my LinkedIn site, GitHub and my email address. The Portfolio page currently displays six of the top projects that I have completed. As I complete more projects I will add them here. The last page is the Contact page. There are input boxes for name and email as well as an input box for a short message. On any of the pages if you click on the resume link in the navbar you will be taken to Google Docs to view my resume.
 
-In the project directory, you can run:
+I made the site responsive so that the site can easily be viewed on mobile devices as well as desktop displays.
 
-### `npm start`
+**Installation**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+click here: https://dnfrancis22.github.io/Revised-Portfolio/
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+**Usage**
 
-### `npm test`
+![Home](./public/assets/home.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Located in the nav bar are links. About, Portfolio, Contact, and Resume. If you click on the links they will take you to their specific pages. If you click on the Resume link you will be taken to Google Docs to view my resume. If you click on the About link it will take you to the About page.
 
-### `npm run build`
+![AboutMe](./public/assets/about.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+On the About page you can click on any of the links provided. They will take you to either my LinkedIn site, GitHub or allow you to send me an email. If you click on the Portfolio link it will take you to the Portfolio page.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+![portfolio](./public/assets/portfolio.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+On the Portfolio page you can scroll through examples of my work. Each example has a screenshot of the site as well as a title and a brief description. There are also links to either Github or the deployed site. If you click on the Contact link it will take you to the Contact page.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![Contact](./public/assets/contact.png)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+On the contact page you can enter your information in the form fields and click on the submit button.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+On any of the pages, if you click on my name in the top left corner it will take you back to the Home page.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+**License**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+MIT License
 
-### Making a Progressive Web App
+Copyright (c) [2020] [Dennis Francis]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-### Advanced Configuration
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
