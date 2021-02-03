@@ -8,7 +8,6 @@ function NavBar(props) {
         className="navbar navbar-expand-lg navbar-light bg-light"
         id="navbar"
       >
-        
           <a
             className="nav-item"
             href="#Home"
@@ -45,8 +44,7 @@ function NavBar(props) {
             >
               Portfolio
             </a>
-
-            <a
+            {/* <a
               className="nav-item"
               href="#Contact"
               onClick={() => props.handlePageChange("Contact")}
@@ -55,7 +53,7 @@ function NavBar(props) {
               }
             >
               Contact
-            </a>
+            </a> */}
             <a
               className="nav-link"
               href="https://docs.google.com/document/d/1MZ_OTMBpeteeMLyJbuGzgmT9NBKnAI1Qt-k5Pt69K1Y/edit?usp=sharing"

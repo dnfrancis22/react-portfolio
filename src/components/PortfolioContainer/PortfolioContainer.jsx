@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Navbar from "../Navbar/Navbar";
 import About from "../../containers/About/About";
-import Contact from "../../containers/Contact/Contact";
+// import Contact from "../../containers/Contact/Contact";
 import Portfolio from "../../containers/Portfolio/Portfolio";
 import Footer from "../Footer/Footer";
 import Home from "../../containers/Home/Home"
@@ -21,8 +21,8 @@ class PortfolioContainer extends Component {
       return <Home />;
     } else if (this.state.currentPage === "About") {
       return <About />;
-    } else if (this.state.currentPage === "Contact") {
-      return <Contact />;
+    // } else if (this.state.currentPage === "Contact") {
+    //   return <Contact />;
     } else if (this.state.currentPage === "Portfolio") {
       return <Portfolio />;
     } else {

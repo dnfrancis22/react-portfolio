@@ -2,9 +2,7 @@
 
 **Description**
 
-This is a site that I created to display information about my self. There are four pages. Home, About Me, Portfolio, and Contact page. The About Me page is where I have a short biography about my self. I also share links to my LinkedIn site, GitHub and my email address. The Portfolio page currently displays six of the top projects that I have completed. As I complete more projects I will add them here. The last page is the Contact page. There are input boxes for name and email as well as an input box for a short message. On any of the pages if you click on the resume link in the navbar you will be taken to Google Docs to view my resume.
-
-I made the site responsive so that the site can easily be viewed on mobile devices as well as desktop displays.
+This is a site that I created to display information about my self. There are four pages. Home, About Me, and Portfolio page. The About Me page is where I have a short biography about my self. I also share links to my LinkedIn site, GitHub and my email address. The Portfolio page currently displays six of the top projects that I have completed. As I complete more projects I will add them here. On any of the pages if you click on the resume link in the navbar you will be taken to Google Docs to view my resume.
 
 **Installation**
 
@@ -14,7 +12,7 @@ click here: https://dnfrancis22.github.io/Revised-Portfolio/
 
 ![Home](./public/assets/home.png)
 
-Located in the nav bar are links. About, Portfolio, Contact, and Resume. If you click on the links they will take you to their specific pages. If you click on the Resume link you will be taken to Google Docs to view my resume. If you click on the About link it will take you to the About page.
+Located in the nav bar are links. About, Portfolio, and Resume. If you click on the links they will take you to their specific pages. If you click on the Resume link you will be taken to Google Docs to view my resume. If you click on the About link it will take you to the About page.
 
 ![AboutMe](./public/assets/about.png)
 
@@ -25,15 +23,7 @@ On the About page you can click on any of the links provided. They will take you
 ![portfolio](./public/assets/portfolio.png)
 
 
-On the Portfolio page you can scroll through examples of my work. Each example has a screenshot of the site as well as a title and a brief description. There are also links to either Github or the deployed site. If you click on the Contact link it will take you to the Contact page.
-
-
-![Contact](./public/assets/contact.png)
-
-
-On the contact page you can enter your information in the form fields and click on the submit button.
-
-On any of the pages, if you click on my name in the top left corner it will take you back to the Home page.
+On the Portfolio page you can scroll through examples of my work. Each example has a screenshot of the site as well as a title and a brief description. There are also links to either Github or the deployed site. On any of the pages, if you click on my name in the top left corner it will take you back to the Home page.
 
 
 
