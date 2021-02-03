@@ -6,7 +6,7 @@ This is a site that I created to display information about my self. There are fo
 
 **Installation**
 
-click here: https://dnfrancis22.github.io/Revised-Portfolio/
+click here: "https://dnfrancis22.github.io/react-portfolio"
 
 **Usage**
 
