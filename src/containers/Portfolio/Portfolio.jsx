@@ -1,9 +1,10 @@
 import React from "react";
 import Card from "../../components/Card/Card";
+import "./Portfolio.css"
 
 const Portfolio = () => {
   return (
-    <div className="container">
+    <div className="container" id="container">
       <div className="row">
         <div className="col">
           <h1>Portfolio</h1>

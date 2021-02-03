@@ -1,0 +1,8 @@
+#container {
+    width: 80%;
+    border-radius: 10px;
+    background-color: rgb(150, 150, 150);
+    padding: 25px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+  }

@@ -1,9 +1,10 @@
 import React from "react";
+import "./Navbar.css"
 
 function NavBar(props) {
   return (
     <>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+      <nav className="navbar navbar-expand-lg navbar-light bg-light" id="navbar">
         <h3>Dennis Francis</h3>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav ml-auto">
