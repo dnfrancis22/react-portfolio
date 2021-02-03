@@ -1,0 +1,11 @@
+.homeCont {
+  color: white;
+  width: 80%;
+  border-radius: 10px;
+  font-size: 60px;
+  text-align: center;
+  padding: 25px;
+  margin-top: 75px;
+  margin-bottom: 75px;
+  height: 500px;
+}

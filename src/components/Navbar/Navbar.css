@@ -1,7 +1,6 @@
 #navbar {
-    position: fixed;
-    top: 0;
-    width: 100%; 
     border-bottom: 5px solid rgb(73, 73, 73);
-    z-index:1000;
+}
+h3{
+    color: rgb(73, 73, 73);;
 }

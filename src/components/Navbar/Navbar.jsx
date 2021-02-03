@@ -1,14 +1,28 @@
 import React from "react";
-import "./Navbar.css"
+import "./Navbar.css";
 
 function NavBar(props) {
   return (
     <>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light" id="navbar">
-        <h3>Dennis Francis</h3>
+      <nav
+        className="navbar navbar-expand-lg navbar-light bg-light"
+        id="navbar"
+      >
+        
+          <a
+            className="nav-item"
+            href="#Home"
+            onClick={() => props.handlePageChange("Home")}
+            className={
+              props.currentPage === "Home" ? "nav-link active" : "nav-link"
+            }
+          >
+            <h3>Dennis Francis</h3>
+          </a>
+        
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav ml-auto">
-          <a
+            <a
               className="nav-item"
               href="#About"
               onClick={() => props.handlePageChange("About")}
@@ -18,7 +32,7 @@ function NavBar(props) {
             >
               About
             </a>
-            
+
             <a
               className="nav-item"
               href="#Portfolio"
@@ -31,7 +45,7 @@ function NavBar(props) {
             >
               Portfolio
             </a>
-            
+
             <a
               className="nav-item"
               href="#Contact"
