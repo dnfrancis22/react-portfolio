@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.ebd995fc.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.e46a42e0.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.e46a42e0.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.0c92deda.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.0c92deda.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.700f04d3.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.700f04d3.js.map",
     "static/js/2.e29c346d.chunk.js": "/react-portfolio/static/js/2.e29c346d.chunk.js",
@@ -12,12 +12,19 @@
     "index.html": "/react-portfolio/index.html",
     "static/css/main.ebd995fc.chunk.css.map": "/react-portfolio/static/css/main.ebd995fc.chunk.css.map",
     "static/js/2.e29c346d.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.e29c346d.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/react-portfolio/static/media/background.20da54be.jpeg"
+    "static/media/IMG_6171.8ebfbbdf.jpg": "/react-portfolio/static/media/IMG_6171.8ebfbbdf.jpg",
+    "static/media/style.css": "/react-portfolio/static/media/background.20da54be.jpeg",
+    "static/media/burgerApp.9024b47a.png": "/react-portfolio/static/media/burgerApp.9024b47a.png",
+    "static/media/employeeTracker.98d71e59.png": "/react-portfolio/static/media/employeeTracker.98d71e59.png",
+    "static/media/food-truck-chasers.f01e69d4.png": "/react-portfolio/static/media/food-truck-chasers.f01e69d4.png",
+    "static/media/planner.1f7ad1b9.jpeg": "/react-portfolio/static/media/planner.1f7ad1b9.jpeg",
+    "static/media/theInspirator.da8ee7af.png": "/react-portfolio/static/media/theInspirator.da8ee7af.png",
+    "static/media/weatherApp.a522126b.png": "/react-portfolio/static/media/weatherApp.a522126b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.700f04d3.js",
     "static/js/2.e29c346d.chunk.js",
     "static/css/main.ebd995fc.chunk.css",
-    "static/js/main.e46a42e0.chunk.js"
+    "static/js/main.0c92deda.chunk.js"
   ]
 }
