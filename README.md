@@ -10,17 +10,17 @@ click here:  https://dnfrancis22.github.io/react-portfolio/
 
 **Usage**
 
-![Home](./public/assets/home.png)
+![Home](./src/assets/home.png)
 
 Located in the nav bar are links. About, Portfolio, and Resume. If you click on the links they will take you to their specific pages. If you click on the Resume link you will be taken to Google Docs to view my resume. If you click on the About link it will take you to the About page.
 
-![AboutMe](./public/assets/about.png)
+![AboutMe](./src/assets/about.png)
 
 
 On the About page you can click on any of the links provided. They will take you to either my LinkedIn site, GitHub or allow you to send me an email. If you click on the Portfolio link it will take you to the Portfolio page.
 
 
-![portfolio](./public/assets/portfolio.png)
+![portfolio](./src/assets/portfolio.png)
 
 
 On the Portfolio page you can scroll through examples of my work. Each example has a screenshot of the site as well as a title and a brief description. There are also links to either Github or the deployed site. On any of the pages, if you click on my name in the top left corner it will take you back to the Home page.
