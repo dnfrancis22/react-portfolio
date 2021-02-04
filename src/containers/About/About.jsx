@@ -1,5 +1,6 @@
 import React from 'react';
-import "../../styles/style.css"
+import "../../styles/style.css";
+import Bio from "../../assets/IMG_6171.jpg"
 
 const About = () => {
     return (
@@ -14,7 +15,7 @@ const About = () => {
         {/* <!-- The article contains an image and short bio. --> */}
         <article className="row">
           <figure className="col">
-            <img className="img" src="./assets/IMG_6171.jpg" alt="me" />
+            <img className="img" src={Bio} alt="me" />
             <p>
               My name is Dennis Francis. I am currently enrolled in the Full Stack
               Flex Boot Camp with GA Tech. My back ground is in Exhibit Design and
