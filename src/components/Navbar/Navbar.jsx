@@ -10,7 +10,7 @@ function NavBar(props) {
       >
         <div className="container-fluid">
           <a
-            className="nav-item"
+            className="navbar-brand nav-item"
             href="#Home"
             onClick={() => props.handlePageChange("Home")}
             // eslint-disable-next-line
