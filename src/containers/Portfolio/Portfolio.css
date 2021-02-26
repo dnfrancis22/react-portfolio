@@ -1,0 +1,11 @@
+.portCont {
+  color: white;
+  width: 80%;
+  border-radius: 10px;
+  font-size: 60px;
+  text-align: center;
+  padding: 25px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+  height: 500px;
+}

@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "../../components/Card/Card";
-import "../../styles/style.css";
+import "./Portfolio.css"
 import Insp from "../../assets/theInspirator.png";
 import Ft from "../../assets/food-truck-chasers.png";
 import Wa from "../../assets/weatherApp.png";
@@ -8,10 +8,11 @@ import Plan from "../../assets/planner.jpeg";
 import Burger from "../../assets/burgerApp.png";
 import Et from "../../assets/employeeTracker.png";
 
+
 const Portfolio = () => {
   return (
     <>
-      <section className="py-5 text-center container homeCont">
+      <section className="py-5 text-center container portCont">
         <div className="row py-lg-5">
           <div className="col-lg-6 col-md-8 mx-auto">
             <h1 className="fw-light">My Portfolio</h1>

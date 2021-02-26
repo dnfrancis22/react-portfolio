@@ -1,5 +1,6 @@
 import React from "react";
 import "./Navbar.css";
+import Resume from "../../assets/DennisFrancisResume.pdf"
 
 function NavBar(props) {
   return (
@@ -61,7 +62,7 @@ function NavBar(props) {
               </a>
               <a
                 className="nav-link"
-                href="https://docs.google.com/document/d/1MZ_OTMBpeteeMLyJbuGzgmT9NBKnAI1Qt-k5Pt69K1Y/edit?usp=sharing"
+                href={Resume}
                 download
               >
                 Resume
