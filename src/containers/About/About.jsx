@@ -17,16 +17,17 @@ const About = () => {
           <figure className="col">
             <img className="img" src={Bio} alt="me" />
             <p>
-              Full stack web developer with a background in graphic design and
-              3D design. Combining my experience in design and marketing with my
-              newly acquired HTML, CSS, and Javascript skills from GA Tech to
-              create a dynamic and creative web experience that will enhance any
-              company's brand. I look for new ways to attack challenges. I have
-              the ability to multitask and meet strict deadlines. I work great
-              in a team environment as well as on my own with little to no
-              supervision. I am extremely passionate about web development. I
-              look forward to being an essential team member working to create
-              unique and exciting web solutions.
+              I am a full stack web developer with a background in graphic
+              design and 3D design. I wish to combine my experience in design
+              and marketing with my newly acquired HTML, CSS, Javascript, and
+              React skills from GA Tech to create dynamic and creative web
+              experiences that will enhance any company's brand. I look for new
+              ways to attack challenges. I have the ability to multitask and
+              meet strict deadlines. I work great in a team environment as well
+              as on my own with little to no supervision. I am extremely
+              passionate about web development. I look forward to being an
+              essential team member working to create unique and exciting web
+              solutions.
             </p>
           </figure>
         </article>
@@ -34,9 +35,8 @@ const About = () => {
         <article className="row">
           <section className="" class="col">
             <p>
-              These are links to my GitHub, Linked In, and Email. Click them if
-              you want to learn more about me or just send me an email. Feel
-              free to leave your information on the contact page.
+              These are links to my GitHub, LinkedIn, and Email. Click them if
+              you want to learn more about me or just send me an email.
             </p>
             <ul>
               <li>

@@ -58,7 +58,20 @@ function NavBar(props) {
                     : "nav-link"
                 }
               >
-                Portfolio
+                Web Development
+              </a>
+              <a
+                className="nav-item"
+                href="#Exhibit"
+                onClick={() => props.handlePageChange("Exhibit")}
+                // eslint-disable-next-line
+                className={
+                  props.currentPage === "Exhibit"
+                    ? "nav-link active"
+                    : "nav-link"
+                }
+              >
+                Graphic Design
               </a>
               <a
                 className="nav-link"
